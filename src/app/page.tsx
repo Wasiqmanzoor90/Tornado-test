@@ -4,7 +4,7 @@ function page()
 {
     return(
         <div>
-            <h1>Hello i'm Wasiq Manzoor</h1>
+            <h1>Hello i'm Sheikh Wasiq Manzoor</h1>
         </div>
     )
 }
